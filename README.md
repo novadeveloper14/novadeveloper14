@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif"
        alt="snake" /></a>
 </div>
 
