@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif"
+  <img  src="https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg"
        alt="snake" /></a>
 </div>
 
