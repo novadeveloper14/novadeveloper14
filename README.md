@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://arkalivebackup.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg"
+  <img  src="https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg"
        alt="snake" /></a>
 </div>
 
