@@ -28,10 +28,10 @@
 
 
 <!--- stats & Trophy (start) -->
-<p align="center">
+<p align="left"  width="100%">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
+<table align="center" width="100%">
+<tr border="none" width="100%">
 <td width="70%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=novadeveloper14&theme=dark&show_icons=true&count_private=true" />
