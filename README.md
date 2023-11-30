@@ -30,7 +30,7 @@
 <!--- stats & Trophy (start) -->
 <p align="left"  width="100%">
   <!--- stats (start) -->
-<table align="center" width="100%">
+<table align="left" width="100%">
 <tr border="none" width="100%">
 <td width="70%" align="center">
   
