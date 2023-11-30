@@ -62,12 +62,12 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,github,html,js,php,mysql,nodejs,py,react,tailwind,ts,vscode&perline=14" />
   </a>
@@ -77,7 +77,7 @@
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
