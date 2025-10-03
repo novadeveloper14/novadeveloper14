@@ -17,16 +17,6 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on [SELSA - inube](https://www.sistemasenlinea.com.co/) as front-end developer.
-
-- 🌱 I’m currently learning software engineering in private university [Politecnico grancolombiano](https://www.poli.edu.co/).
-
-- 📫 Feel free to reach me out **johangarcianova14@gmail.com**.
-<!--Intro end-->
-
-
-
 <!--- stats & Trophy (start) -->
 <p align="left"  width="100%">
   <!--- stats (start) -->
