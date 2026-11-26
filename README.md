@@ -2,7 +2,10 @@
 <!-- Banner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Johan Daniel García Nova</h1>
+<h1 align="center">
+  Hi 👋, I'm <a href="https://johan-daniel-garcia-nova-portfolio.vercel.app/" target="_blank">Johan Daniel García Nova</a>
+</h1>
+
 <h3 align="center">Software Developer | React · TypeScript · JavaScript</h3>
 
 <p align="center">
